@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A beginner frontend developer from India</h3>
-<img src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khsh13&label=Profile%20views&color=0e75b6&style=flat" alt="khsh13" /> </p>
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khsh13&show_icons=true&locale=en" alt="khsh13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khsh13&" alt="khsh13" /></p>
+<img src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
