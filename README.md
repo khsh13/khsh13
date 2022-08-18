@@ -26,11 +26,11 @@
 <h3 align="left"> 🎵 Music apps I use:</h3> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 <section>
 
- ##Most used languages
+<h3 align="left">Most used languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khsh13&show_icons=true&locale=en&layout=compact" alt="khsh13" /></p>
 
-##📟 Github stats
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=khsh13&show_icons=true&title_color="	#ffffff"&locale=en" alt="khsh13" /></p>
+<h3 align="left">📟 Github stats</h3>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khsh13&show_icons=true&title_color="	#ffffff"&locale=en" alt="khsh13" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khsh13&" alt="khsh13" /></p>
  
 <img src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
