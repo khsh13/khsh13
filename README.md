@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 <h3 align="center">A beginner frontend developer from India</h3>
-<img src="https://www.freepik.com/free-photos-vectors/kids-coding">
+<img src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khsh13&label=Profile%20views&color=0e75b6&style=flat" alt="khsh13" /> </p>
 
