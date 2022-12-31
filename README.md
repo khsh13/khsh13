@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
-<h2 align="center">IT Sophomore at IGDTU</h2>
+<h2 align="center">IT Sophomore at IGDTUW</h2>
 <h3 align="center">A beginner frontend developer from India</h3>
 
 
